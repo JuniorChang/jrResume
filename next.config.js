@@ -6,7 +6,7 @@ const nextConfig = {
 module.exports = {
   images: {
     domains: ['assets.justinmind.com', 'media.istockphoto.com', 'images.unsplash.com'],
-    path: "/static/",
+    path: "/public/static",
   },
 
 
