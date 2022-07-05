@@ -63,7 +63,7 @@ const ProjectOne = () => {
             className="
                         flex 
                         flex-col 
-                        h-full bg-black text-white rounded-tr-lg rounded-bl-lg p-4"
+                        h-full bg-black text-white rounded-tr-lg p-4 rounded-br-lg "
           >
             <Image
               src="/sushi.png"

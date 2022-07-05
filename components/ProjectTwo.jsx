@@ -60,7 +60,7 @@ const ProjectTwo = () => {
             className="
                 flex 
                 flex-col 
-                h-full bg-black text-white rounded-tr-lg rounded-bl-lg p-4"
+                h-full bg-black text-white rounded-tr-lg rounded-br-lg p-4"
           >
             <Image
               src="/movieshowcase.png"
