@@ -40,7 +40,7 @@ const ProjectTwo = () => {
                             <li>Netlify</li>
                         </ul>
                         <p className='ml-5'>Description: Simple website to showcase calling of Api. Bootstrap and CSS </p>
-                        <a href="https://62beb66dcf5ec333cb6802be--gilded-pegasus-cad2fb.netlify.app/" target="_blank" className='ml-5 mt-10 pb-10'>
+                        <a href="https://62beb66dcf5ec333cb6802be--gilded-pegasus-cad2fb.netlify.app/" target="_blank" rel="noreferrer" className='ml-5 mt-10 pb-10'>
                             <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded '>CLick to see Live Version</button>
                         </a>
                     </div>

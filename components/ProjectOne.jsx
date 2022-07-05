@@ -42,7 +42,7 @@ const ProjectOne = () => {
                             <li>Heroku</li>
                         </ul>
                         <p className='ml-5'>Description: Full Stack E-commerce website that allows user to add, edit, delete products. Basically CRUD functions. </p>
-                        <a href="http://jrsushishop.herokuapp.com/" target="_blank" className='ml-5 mt-10 pb-10'>
+                        <a href="http://jrsushishop.herokuapp.com/" target="_blank" rel="noreferrer" className='ml-5 mt-10 pb-10'>
                             <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded '>CLick to see Live Version</button>
                         </a>
                     </div>
