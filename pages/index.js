@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Hero from '../components/Hero'
 import Slider from '../components/Slider'
-import SliderData from '../components/Slider'
+import { SliderData } from '../components/Slider'
 
 export default function Home() {
   return (
