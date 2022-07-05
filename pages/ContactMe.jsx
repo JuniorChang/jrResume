@@ -5,7 +5,6 @@ const ContactMe = () => {
     return (
         <>
             <Contact />
-
         </>
     )
 }
