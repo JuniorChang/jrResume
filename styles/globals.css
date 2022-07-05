@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html {
+  font-family: 'Raleway', sans-serif;
+  /* font-size: 16px; */
+
+}
+
+.custom-img {
+  background-image: url('https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80');
+}
+
+.fas {
+  color: #00e600
+}
