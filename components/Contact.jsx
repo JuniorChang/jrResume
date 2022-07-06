@@ -44,7 +44,7 @@ const Contact = () => {
         {/* Icons End */}
 
         <div className="">
-          <p className="font-bold text-center ml-10">Contact Me</p>
+          <p className="font-bold text-center  text-2xl">Contact Me</p>
         </div>
 
         {/* Form Container Start*/}
@@ -85,9 +85,11 @@ const Contact = () => {
               <Button
                 variant="primary"
                 type="submit"
-                className="bg-[#00e600] border-double border-4 border-indigo-600 rounded mt-5"
+                className="bg-[#25D366] border-double border-4
+                border-black
+                rounded mt-5"
               >
-                <b>Send Message</b>
+                <b className="p-3">Send Message</b>
               </Button>
             </Form>
           </div>
@@ -98,5 +100,7 @@ const Contact = () => {
     </div>
   );
 };
+
+// border-indigo-600
 
 export default Contact;
