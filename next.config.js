@@ -1,13 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: false,
-}
+  reactStrictMode: true,
+};
 
 module.exports = {
   images: {
-    domains: ['assets.justinmind.com', 'media.istockphoto.com', 'images.unsplash.com'],
-
+    domains: [
+      "assets.justinmind.com",
+      "media.istockphoto.com",
+      "images.unsplash.com",
+    ],
   },
-
-
-}
+};

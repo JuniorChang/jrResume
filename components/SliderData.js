@@ -16,11 +16,11 @@ export const SliderData = [
     description: "E-Commerce Admin Page",
   },
   {
-    image: "/sushi-main.png",
+    image: "/payments.png",
     description: "E-Commerce, Payment Page",
   },
   {
-    image: "/../public/sushi.png",
+    image: "/sushi.png",
     description: "E-Commerce, Landing Page",
   },
 ];
