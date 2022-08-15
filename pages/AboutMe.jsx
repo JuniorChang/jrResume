@@ -23,9 +23,7 @@ const AboutMe = () => {
           </p>
 
           <p>
-            Currently I am exploring into the world of game and mobile
-            development, for example Unity and ReactNative. I am in the midst of
-            working on a top down 2D game right now.
+            Currently I am exploring into mobile development, for example ReactNative and studying code optimisation in React.
           </p>
         </div>
 
