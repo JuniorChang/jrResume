@@ -22,6 +22,9 @@ const AboutMe = () => {
             new ways to improve my skills.
           </p>
 
+<p> During my free time, I enjoy watching motosports like Formula1 or having a race in my own racing simulator. I enjoy riding my motobike too, currently I own a scrambler
+and I hope to one day, travel the world in my motobike. </p>
+
           <p>
             Currently I am exploring into mobile development, for example ReactNative and studying code optimisation in React.
           </p>
